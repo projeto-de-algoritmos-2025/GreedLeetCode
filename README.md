@@ -2,7 +2,7 @@
 
 **Número da Lista**: 3
 
-**Conteúdo da Disciplina**: Greed
+**Conteúdo da Disciplina**: Greedy Algorithms (Algoritmos Ambiciosos)
 
 **Link para apresentação**: 
 
