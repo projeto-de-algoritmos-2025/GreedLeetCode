@@ -4,7 +4,7 @@
 
 **Conteúdo da Disciplina**: Greedy Algorithms (Algoritmos Ambiciosos)
 
-**Link para apresentação**: 
+**Link para apresentação**: [OneDrive](https://unbbr-my.sharepoint.com/:v:/g/personal/202015901_aluno_unb_br/EU_k0z4zcEtMucP4Pizch0sB--kRMlVuhneDJTcX1Jf1Mw?e=7zcp67&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Alunos
 
